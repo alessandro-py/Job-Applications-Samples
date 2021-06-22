@@ -5,6 +5,6 @@ This repository illustrate some of my Machine Learning projects.
 3) sentiment_analysis.ipynb: Extract stock sentiments from financial news headlines in FinViz website using Python.
 4) trading_simulator.ipynb: Simulating 20 years performance of 500 stocks (S&P500).
 5) sharpe_ratio_portfolio_allocation.ipynb: calculating the efficient frontier & sharpe-ratio allocation of a portfolio
-6) Usage of various Classification alghoritms: K Nearest Neighbor, Decision Tree, Support Vector Machine, Logistic Regression.
+6) classification_loan_v1.ipynb: Using of various Classification alghoritms: K Nearest Neighbor, Decision Tree, Support Vector Machine, Logistic Regression.
 
 
